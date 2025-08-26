@@ -15,7 +15,7 @@ Displays a list of metals with their current prices and a synchronized countdown
 Shows detailed information for a selected metal, including price change indicators and a synchronized 30-second update timer.
 
 ![Details Screen Screenshot](./screenshots/platinum.PNG)
-
+![Details Screen Screenshot](./screenshots/gold.PNG)
 
 ---
 
