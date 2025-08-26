@@ -1,6 +1,8 @@
-# Live Metal Prices Application
+# Live Metal Prices 
 
-The app displays live prices for **Gold, Silver, Platinum, and Palladium**, updated dynamically every 30 seconds. It features a **Home Screen** with summary tiles and a **Details Screen** with in-depth price information for each metal.
+The app displays live prices for **Gold, Silver, Platinum, and Palladium**, updated dynamically every 30 seconds. It features a **Home Screen** with summary tiles and a **Details Screen** with in-depth price information for each metal.  
+You can also view **real-time metal prices in different currencies** including **USD, EUR, INR, GBP, and JPY**, with seamless conversion based on live exchange rates.
+
 
 ---
 
@@ -53,19 +55,19 @@ Shows detailed information for a selected metal, including price change indicato
 ### Setup Instructions
 
 1. **Clone the repository:**
-   bash
+   ```bash
    git clone https://github.com/Mayank-kanojiya/LiveMetalPrice.git
 
 
 2. **Navigate to the project directory:**
 
-   bash
+   ```bash
    cd LiveMetalPrice
    
 
 3. **Install dependencies:**
 
-   bash
+   ```bash
    npm install
    
 
@@ -122,7 +124,3 @@ Feel free to use, modify, or contribute.
 
 ```
 
----
-
-Let me know if you want to include a `.gif` walkthrough, link to a live preview (if hosted), or write a contribution guide as well.
-```
