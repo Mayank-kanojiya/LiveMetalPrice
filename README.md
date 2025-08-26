@@ -53,33 +53,33 @@ Shows detailed information for a selected metal, including price change indicato
 ### Setup Instructions
 
 1. **Clone the repository:**
-   ```bash
+   bash
    git clone https://github.com/Mayank-kanojiya/LiveMetalPrice.git
-````
+
 
 2. **Navigate to the project directory:**
 
-   ```bash
+   bash
    cd LiveMetalPrice
-   ```
+   
 
 3. **Install dependencies:**
 
-   ```bash
+   bash
    npm install
-   ```
+   
 
 4. **Install development dependencies:**
 
    ```bash
    npm install --save-dev cross-env
-   ```
+   
 
 5. **Start the application:**
 
    ```bash
    npm start
-   ```
+   
 
 6. **Open the app:**
 
@@ -114,9 +114,6 @@ LiveMetalPrice/
 └── README.md
 ```
 
-</details>
-
----
 
 ## 📄 License
 
