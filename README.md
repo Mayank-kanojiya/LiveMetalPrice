@@ -9,7 +9,7 @@ The app displays live prices for Gold, Silver, Platinum, and Palladium, which ar
 ### Home Screen
 *Displays a list of metals with their current prices and a synchronized countdown timer for the next update.*
 
-![Home Screen Screenshot](./screenshots/HomePage.png) 
+![Home Screen Screenshot](./screenshots/index.png) 
 
 ### Details Screen
 *Shows detailed information for a selected metal, including price change indicators and a synchronized 30-second update timer.*
